@@ -1,0 +1,26 @@
+{
+  "id": "ce5c2e7a-79f6-4aa9-9600-a15a1c6e3c69",
+  "name": "SQLPython",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SQLPython.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}

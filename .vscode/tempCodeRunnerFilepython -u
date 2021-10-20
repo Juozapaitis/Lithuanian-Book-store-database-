@@ -1,0 +1,1 @@
+tree_records.bind("<ButtonRelease-1>", LearnersInfo)
